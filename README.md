@@ -10,19 +10,16 @@ Simple Calculator: Tez aur aasan hisab-kitab.Daily use ke liye ek basic aur clea
 - Simple Calculation
 - Simple and clean UI
 
-## Screenshot
-Screenshot 2026-06-24 173632.png
-
-
-
 
 ## Technologies Used
 
 - Html
 - CSS
 - Javascript
-## Screenshots
 
+
+## Screenshot
+Screenshot 2026-06-24 173632.png
 
 
 
