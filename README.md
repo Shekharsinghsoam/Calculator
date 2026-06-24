@@ -16,4 +16,4 @@ Simple Calculator: Fast and easy calculations. A basic and clean calculator for 
 
 ## Screenshot
 
-![App Screenshot](Screenshot%202026-06-24%20173632.png)
+![App Screenshot](image.png)
