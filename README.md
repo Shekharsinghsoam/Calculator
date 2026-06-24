@@ -1,25 +1,20 @@
 
-# Calculator
+# कैलकुलेटर
 
-Simple Calculator: Tez aur aasan hisab-kitab.Daily use ke liye ek basic aur clean calculator. Plus, minus, multiply aur divide karein bina kisi jhanjhat ke. Yeh lightweight hai aur bohot tez kaam karta hai
+सरल कैलकुलेटर: तेज़ और आसान हिसाब-किताब। दैनिक उपयोग के लिए एक बेसिक और साफ़ कैलकुलेटर। जोड़, घटाव, गुणा और भाग करें बिना किसी परेशानी के। यह हल्का है और बहुत तेज़ काम करता है।
 
+## विशेषताएं
 
-## Features
+- लाइट मोड टॉगल
+- सरल गणना
+- सरल और साफ़ UI
 
-- Light mode toggle
-- Simple Calculation
-- Simple and clean UI
-
-
-## Technologies Used
+## उपयोग की गई तकनीकें
 
 - Html
 - CSS
 - Javascript
 
+## स्क्रीनशॉट
 
-## Screenshot
-![App Screenshot](Screenshot 2026-06-24 173632.png)
-
-
-
+![ऐप स्क्रीनशॉट](Screenshot%202026-06-24%20173632.png)
