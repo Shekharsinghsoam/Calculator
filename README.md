@@ -19,7 +19,7 @@ Simple Calculator: Tez aur aasan hisab-kitab.Daily use ke liye ek basic aur clea
 
 
 ## Screenshot
-Screenshot 2026-06-24 173632.png
+![App Screenshot](Screenshot 2026-06-24 173632.png)
 
 
 
